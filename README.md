@@ -85,10 +85,6 @@ discipline into every line of defense.
 
 ```text
 ✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
-🎯 Next: CompTIA Security+
-🎯 Then: CompTIA Network+
-🎯 Goal:  CEH (Certified Ethical Hacker) / CISSP
-```
 
 ---
 
