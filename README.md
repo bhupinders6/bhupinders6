@@ -3,26 +3,40 @@
 </h1>
 
 <h3 align="center">
-  Operations Pro → Future Developer &nbsp;|&nbsp; 📍 Canada
+  Operations Pro → Cybersecurity Professional in Making &nbsp;|&nbsp; 📍 Canada
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=4%2B+Years+in+Operations+%26+Logistics;Now+Learning+to+Build+What+I+Used+to+Manage;Computer+Programming+%40+Humber+College;Turning+Workflows+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=4%2B+Years+in+Operations+%26+Logistics;Studying+Computer+Programming+%40+Humber+College;Passionate+About+Cybersecurity+%26+Secure+Systems;Turning+Operational+Experience+into+Cyber+Defense+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 My Story
 
-> *"I spent 4 years optimizing operations, managing teams, and fixing broken systems —*  
-> *now I'm learning to build better ones from scratch."*
+> *"I spent 4 years protecting data, enforcing compliance, and securing operational systems —*
+> *now I'm learning to defend them at the code level."*
 
-I'm not your typical CS student. Before GitHub, there was SAP.  
-Before pull requests, there were compliance reports.  
-Before debugging code, I was debugging **logistics chains across 100+ daily transactions.**
+I'm not your typical cybersecurity student. Before firewalls, there was SAP.
+Before threat analysis, there were compliance audits.
+Before securing networks, I was securing **100+ daily transactions with 98%+ accuracy.**
 
-Now I'm at **Humber College** studying Computer Programming & Analysis —  
-and I'm bringing everything I know about systems, people, and process into tech.
+Now I'm at **Humber College** studying Computer Programming & Analysis —
+specializing toward **Cybersecurity**, and bringing real-world operational
+discipline into every line of defense.
+
+---
+
+## 🎯 Cybersecurity Focus Areas
+
+```text
+🔐 Secure Computing Environments
+🌐 Network Communications & Protocols
+🛡️ Systems Analysis & Threat Assessment
+📋 Compliance, SOP & Risk Management
+🔍 Data Integrity & Audit Trails
+💻 Secure Software Development & Testing
+```
 
 ---
 
@@ -46,16 +60,35 @@ and I'm bringing everything I know about systems, people, and process into tech.
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
+## 🔐 Cybersecurity Tools & Learning
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+
 ---
 
-## 📌 What Makes Me Different
+## 📌 Why I'll Be a Strong Cybersecurity Professional
 
-| 💼 Operations Background | 💻 Tech Mindset |
+| 💼 My Background | 🔐 Cybersecurity Value |
 |---|---|
-| 98%+ data accuracy across 100+ daily transactions | Applying the same precision to writing clean code |
-| Reduced onboarding time by 40% | Building efficient, scalable solutions |
-| Cross-functional team leadership | Collaborating on projects & open source |
-| SAP & EDI enterprise systems | Learning databases, networks & software design |
+| 98%+ data accuracy across enterprise systems | Obsessive attention to detail — critical in threat analysis |
+| Confidentiality with sensitive business data | Already understand data privacy & discretion |
+| SAP, EDI & IBM Maximo enterprise experience | Familiar with complex systems attackers target |
+| SOP & regulatory compliance management | Risk management & policy enforcement mindset |
+| Investigated account irregularities & root causes | Natural incident response & problem-solving instinct |
+| Cross-functional team leadership | Can communicate security risks to non-technical stakeholders |
+
+---
+
+## 📚 Certifications & Learning Roadmap
+
+```text
+✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
+🎯 Next: CompTIA Security+
+🎯 Then: CompTIA Network+
+🎯 Goal:  CEH (Certified Ethical Hacker) / CISSP
+```
 
 ---
 
@@ -73,5 +106,5 @@ and I'm bringing everything I know about systems, people, and process into tech.
 ---
 
 <p align="center">
-  <i>"I didn't start in tech — but I'm building my way in, one commit at a time."</i> 🚀
+  <i>"The best security professionals don't just understand code — they understand people, process, and risk. I've been doing two of those for years."</i> 🔐🚀
 </p>
