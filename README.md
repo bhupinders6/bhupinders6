@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Operations Pro → Cybersecurity Professional in Making &nbsp;|&nbsp; 📍 Canada
+  Operations Pro → Future Tech Professional &nbsp;|&nbsp; 📍 Canada
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=4%2B+Years+in+Operations+%26+Logistics;Studying+Computer+Programming+%40+Humber+College;Passionate+About+Cybersecurity+%26+Secure+Systems;Turning+Operational+Experience+into+Cyber+Defense+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=4%2B+Years+in+Operations+%26+Logistics;Studying+Computer+Programming+%40+Humber+College;Passionate+About+Tech+%26+Secure+Systems;Building+My+Path+Into+the+Tech+Industry+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,6 +85,7 @@ discipline into every line of defense.
 
 ```text
 ✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
+```
 
 ---
 
