@@ -1,23 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhupinder Singh</h1>
+<h3 align="center">A detail-oriented operations professional & aspiring software developer from Canada</h3>
 
-# 💫 About Me:
-# Hi, I'm Bhupinder Singh 👋<br><br>Operations & admin professional transitioning into tech — currently completing an **Advanced Diploma in Computer Programming & Analysis** at Humber College.<br><br>## 🎓 About Me<br><br>- 💼 4+ years of supervisory experience in fast-paced, high-volume environments<br>- 🖥️ Studying Systems Analysis & Design, Software Development, Database Design, Secure Computing & more<br>- 🏫 Previously completed a **Business Administration & Management Diploma** at Georgian College<br>- 📍 Based in Canada
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinders6&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinders6" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupinders6" alt="bhupinders6" /></a> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhupinder-‎-s-7527861a7) 
+- 🔭 I’m currently working on **Operations Supervisor role**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhupinders6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bhupinders6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhupinders6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Systems Analysis & Design, Database Design, Software Development & Testing (Humber College)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhupinders6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 👨‍💻 All of my projects are available at [https://github.com/bhupinders6](https://github.com/bhupinders6)
 
----
-[![](https://komarev.com/ghpvc/?username=bhupinders6&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Operations management, SAP, records systems, or my transition into tech**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **bsingh168@hotmail.com**
+
+- ⚡ Fun fact **I went from managing 40+ delivery routes to learning how to code — one bug at a time!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhupinder-%e2%80%8e-s-7527861a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupinder-%e2%80%8e-s-7527861a7/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupinders6&show_icons=true&locale=en&layout=compact" alt="bhupinders6" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupinders6&show_icons=true&locale=en" alt="bhupinders6" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupinders6&" alt="bhupinders6" /></p>
