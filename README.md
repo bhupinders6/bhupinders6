@@ -1,28 +1,22 @@
 <h1 align="center">
   Hey, I'm Bhupinder Singh 👋
 </h1>
-
 <h3 align="center">
-  Operations Pro → Future Tech Professional &nbsp;|&nbsp; 📍 Canada
+  Operations & Technology Professional &nbsp;|&nbsp; 📍 Canada
 </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=4%2B+Years+in+Operations+%26+Logistics;Studying+Computer+Programming+%40+Humber+College;Passionate+About+Tech+%26+Secure+Systems;Building+My+Path+Into+the+Tech+Industry+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=4%2B+Years+in+Enterprise+Operations+%26+Systems;Studying+Computer+Programming+%40+Humber+College;Bridging+Business+Operations+and+Technology;Building+Reliable%2C+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 My Story
 
-> *"I spent 4 years protecting data, enforcing compliance, and securing operational systems —*
-> *now I'm learning to defend them at the code level."*
+> *"I bring 4 years of enterprise systems experience to software development — turning operational problems into technical solutions."*
 
-I'm not your typical cybersecurity student. Before firewalls, there was SAP.
-Before threat analysis, there were compliance audits.
-Before securing networks, I was securing **100+ daily transactions with 98%+ accuracy.**
+I'm a career-transitioner with a strong foundation in enterprise operations — including hands-on experience with ERP systems like SAP, compliance workflows, and high-accuracy data management. I handled **100+ daily transactions with 98%+ accuracy**, which shaped how I think about reliability, data integrity, and process design.
 
-Now I'm at **Humber College** studying Computer Programming & Analysis.
-
+Now I'm channelling that operational mindset into software. I'm currently completing an **Advanced Diploma in Computer Programming & Analysis at Humber College**, building skills in software development, databases, and systems analysis.
 
 ---
 
@@ -48,7 +42,7 @@ Now I'm at **Humber College** studying Computer Programming & Analysis.
 
 ---
 
-## 📚 Certifications & Learning Roadmap
+## 📚 Certifications & Learning
 
 ```text
 ✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
@@ -70,5 +64,5 @@ Now I'm at **Humber College** studying Computer Programming & Analysis.
 ---
 
 <p align="center">
-  <i>"The best security professionals don't just understand code — they understand people, process, and risk. I've been doing two of those for years."</i> 🔐🚀
+  <i>"The best technologists don't just understand code — they understand people, process, and systems. I've been doing two of those for years."</i> 🚀
 </p>
