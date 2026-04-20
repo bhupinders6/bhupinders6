@@ -21,7 +21,7 @@ I'm not your typical cybersecurity student. Before firewalls, there was SAP.
 Before threat analysis, there were compliance audits.
 Before securing networks, I was securing **100+ daily transactions with 98%+ accuracy.**
 
-Now I'm at **Humber College** studying Computer Programming & Analysis —.
+Now I'm at **Humber College** studying Computer Programming & Analysis.
 
 ---
 
@@ -58,7 +58,7 @@ Now I'm at **Humber College** studying Computer Programming & Analysis —.
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
-## 🔐 Cybersecurity Tools & Learning
+## 🔐 Tools & Learning
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
