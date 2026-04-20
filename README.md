@@ -46,6 +46,7 @@ Now I'm channelling that operational mindset into software. I'm currently comple
 
 ```text
 ✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
+✅ College Diploma — Business (Completed — Georgian College)
 ```
 
 ---
