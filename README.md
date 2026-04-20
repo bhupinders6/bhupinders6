@@ -21,13 +21,11 @@ I'm not your typical cybersecurity student. Before firewalls, there was SAP.
 Before threat analysis, there were compliance audits.
 Before securing networks, I was securing **100+ daily transactions with 98%+ accuracy.**
 
-Now I'm at **Humber College** studying Computer Programming & Analysis —
-specializing toward **Cybersecurity**, and bringing real-world operational
-discipline into every line of defense.
+Now I'm at **Humber College** studying Computer Programming & Analysis —.
 
 ---
 
-## 🎯 Cybersecurity Focus Areas
+## 🎯 Focus Areas
 
 ```text
 🔐 Secure Computing Environments
