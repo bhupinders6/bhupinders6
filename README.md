@@ -14,9 +14,9 @@
 
 > *"I bring hands-on experience with enterprise systems and operations, focused on turning real-world problems into practical technical solutions."*
 
-I'm a career-transitioner with a strong foundation in enterprise operations — including hands-on experience with ERP systems like SAP, compliance workflows, and high-accuracy data management. I handled **100+ daily transactions with 98%+ accuracy**, which shaped how I think about reliability, data integrity, and process design.
+I come from an enterprise operations background where I worked with ERP systems like SAP, compliance processes, and high-volume data work. In my roles, I handled around 100+ transactions daily with 98%+ accuracy, which helped me understand the importance of data accuracy, consistency, and how systems actually run in real environments.
 
-Now I'm channelling that operational mindset into software. I'm currently completing an **Advanced Diploma in Computer Programming & Analysis at Humber College**, building skills in software development, databases, and systems analysis.
+Now I’m moving toward software development and data-focused roles. I’m currently doing an Advanced Diploma in Computer Programming & Analysis at Humber College, where I’m learning programming, databases, and systems analysis and trying to build stronger technical skills on top of my operations experience.
 
 ---
 
