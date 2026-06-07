@@ -12,7 +12,7 @@
 
 ## 🧠 My Story
 
-> *"I bring 4 years of enterprise systems experience to software development — turning operational problems into technical solutions."*
+> *"I bring hands-on experience with enterprise systems and operations, focused on turning real-world problems into practical technical solutions."*
 
 I'm a career-transitioner with a strong foundation in enterprise operations — including hands-on experience with ERP systems like SAP, compliance workflows, and high-accuracy data management. I handled **100+ daily transactions with 98%+ accuracy**, which shaped how I think about reliability, data integrity, and process design.
 
