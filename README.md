@@ -16,7 +16,7 @@
 
 I come from an enterprise operations background where I worked with ERP systems like SAP, compliance processes, and high-volume data work. In my roles, I handled around 100+ transactions daily with 98%+ accuracy, which helped me understand the importance of data accuracy, consistency, and how systems actually run in real environments.
 
-Now I’m moving toward software development and data-focused roles. I’m currently doing an Advanced Diploma in Computer Programming & Analysis at Humber College, where I’m learning programming, databases, and systems analysis and trying to build stronger technical skills on top of my operations experience.
+I’m currently doing an Advanced Diploma in Computer Programming & Analysis at Humber College, where I’m learning programming, databases, and systems analysis and trying to build stronger technical skills on top of my operations experience.
 
 ---
 
