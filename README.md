@@ -45,8 +45,8 @@ Now I’m moving toward software development and data-focused roles. I’m curre
 ## 📚 Certifications & Learning
 
 ```text
-✅ Advanced Diploma — Computer Programming & Analysis (In Progress — Humber College)
-✅ College Diploma — Business (Completed — Georgian College)
+✅ Advanced Diploma - Computer Programming & Analysis (In Progress — Humber Polytechnic)
+✅ College Diploma - Business (Completed — Georgian College)
 ```
 
 ---
